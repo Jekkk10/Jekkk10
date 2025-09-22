@@ -1,16 +1,23 @@
-## Hi there 👋
+# Halo 👋, saya Muhammad Zaki Nasution
 
-<!--
-**Jekkk10/Jekkk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya!  
+Saya suka belajar hal-hal baru seputar **pemrograman, data, dan teknologi**.  
+Repo ini otomatis menampilkan perkenalan saya di halaman profil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Tentang Saya
+- 🎓 Saat ini saya sedang belajar **Git & GitHub** untuk manajemen kode.  
+- 💻 Tertarik mempelajari: **Metode-Metode Geofisika (otw desur)**.  
+- 🚀 Sedang mengerjakan: Praktikum Metkom #3.  
+- 🎮 Hobi saya: **baca Al-Qur'an, sepak bola, jogging**.  
+
+---
+
+## 📫 Hubungi Saya
+- 📧 Email: muhammadzakinasution@mail.ugm.ac.id  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammad-zaki-nasution-6bb912322](https://linkedin.com/in/username)  
+
+---
+
+✨ *Terima kasih sudah mampir ke profil saya!*
