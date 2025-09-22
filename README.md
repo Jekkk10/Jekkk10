@@ -16,7 +16,7 @@ Repo ini otomatis menampilkan perkenalan saya di halaman profil.
 
 ## 📫 Hubungi Saya
 - 📧 Email: muhammadzakinasution@mail.ugm.ac.id  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammad-zaki-nasution-6bb912322](https://linkedin.com/in/username)  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammad-zaki-nasution](https://linkedin.com/in/username)  
 
 ---
 
